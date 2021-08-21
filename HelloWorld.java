@@ -1,10 +1,10 @@
 Public class HelloWorld {
 
-Public static void main (String [] args {
+Public static void main (String [] args) {
 
-System.out.println (Hello,world!");
+System.out.println ("Hello,world!");
 
   }
 
-}
+}  
 
